@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning 6.824 and system design...
+I'm a self-taught programmer
+🌱 I’m currently learning 6.824, blockchain and system design...
 
 <!--
 **hexinatgithub/hexinatgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
