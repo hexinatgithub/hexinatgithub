@@ -11,7 +11,12 @@ This is my learning path:
 - [ ] [6.824 Distributed Systems](https://github.com/hexinatgithub/6.824-2022)
 - [ ] [cs251 blockchain](https://cs251.stanford.edu/syllabus.html)
 
-🌱 I’m currently learning distributed systems, blockchain and system design...
+Plan to learn:
+
+- [6.858 secure](https://css.csail.mit.edu/6.858/2022/)
+- [cs143 compiler](https://www.edx.org/course/compilers?index=product&queryID=5c65a71c186efb0fec1c7695c4696442&position=1)
+
+🌱 I’m currently learning distributed systems, blockchain and system design, march for web 3.0
 
 <!--
 **hexinatgithub/hexinatgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
