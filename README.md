@@ -17,7 +17,7 @@ I'm a self-taught programmer
 ⛳️ Plan to learn:
 - [cs251 Blockchain](https://cs251.stanford.edu/syllabus.html)
 
-🌱 I’m currently learning distributed systems, blockchain and system design, march for web 3.0
+🌱 I’m currently focus on distributed systems, blockchain and system design domain, preparing for web 3.0
 
 <!--
 **hexinatgithub/hexinatgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
