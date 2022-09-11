@@ -8,9 +8,9 @@ I'm a self-taught programmer
 - [x] [cs61c Computer Architecture](https://github.com/hexinatgithub/cs61c)
 - [x] [cs186 Database](https://github.com/hexinatgithub/fa19-moocbase)
 - [x] [6.S081 Operating System](https://github.com/hexinatgithub/6.S081)
+- [x] [6.824 Distributed Systems](https://github.com/hexinatgithub/6.824-2022)
 
 🔥 current learning:
-- [6.824 Distributed Systems](https://github.com/hexinatgithub/6.824-2022)
 - [6.858 Security System](https://css.csail.mit.ed🔥u/6.858/2022/)
 - [cs143 Compiler](https://www.edx.org/course/compilers?index=product&queryID=5c65a71c186efb0fec1c7695c4696442&position=1)
 
