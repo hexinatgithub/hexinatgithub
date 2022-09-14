@@ -12,7 +12,7 @@ I'm a self-taught programmer
 
 🔥 current learning:
 - [6.858 Security System](https://css.csail.mit.ed🔥u/6.858/2022/)
-- [cs143 Compiler](https://www.edx.org/course/compilers?index=product&queryID=5c65a71c186efb0fec1c7695c4696442&position=1)
+- [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers-coursework)
 
 ⛳️ Plan to learn:
 - [cs251 Blockchain](https://cs251.stanford.edu/syllabus.html)
