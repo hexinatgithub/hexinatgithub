@@ -11,13 +11,13 @@ I'm a self-taught programmer
 - [x] [6.824 Distributed Systems](https://github.com/hexinatgithub/6.824-2022)
 
 🔥 current learning:
-- [6.858 Security System](https://css.csail.mit.ed🔥u/6.858/2022/)
+- [6.031 Software Construction](http://web.mit.edu/6.031/www/sp21/general/toc.html)
+- [6.858 Security System](https://css.csail.mit.edu/6.858/2022/)
 - [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers-coursework)
 
 ⛳️ Plan to learn:
-- [cs251 Blockchain](https://cs251.stanford.edu/syllabus.html)
 
-🌱 I’m currently focus on distributed systems, blockchain and system design domain, preparing for web 3.0
+🌱 I’m currently focus on software engineering, distributed systems, system design domain, system security.
 
 <!--
 **hexinatgithub/hexinatgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
