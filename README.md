@@ -12,10 +12,10 @@ I'm a self-taught programmer
 - [x] [6.031 Software Construction](https://github.com/hexinatgithub/6.005)
 
 🔥 current learning:
-- [6.858 Security System](https://css.csail.mit.edu/6.858/2022/)
 - [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers-coursework)
 
 ⛳️ Plan to learn:
+- [6.858 Security System](https://css.csail.mit.edu/6.858/2022/)
 
 🌱 I’m currently focus on software engineering, distributed systems, system design domain, system security.
 
