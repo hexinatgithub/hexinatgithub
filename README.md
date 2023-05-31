@@ -9,9 +9,9 @@ I'm a self-taught programmer
 - [x] [cs186 Database](https://github.com/hexinatgithub/fa19-moocbase)
 - [x] [6.S081 Operating System](https://github.com/hexinatgithub/6.S081)
 - [x] [6.824 Distributed Systems](https://github.com/hexinatgithub/6.824-2022)
+- [x] [6.031 Software Construction](https://github.com/hexinatgithub/6.005)
 
 🔥 current learning:
-- [6.031 Software Construction](http://web.mit.edu/6.031/www/sp21/general/toc.html)
 - [6.858 Security System](https://css.csail.mit.edu/6.858/2022/)
 - [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers-coursework)
 
