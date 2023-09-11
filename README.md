@@ -10,7 +10,7 @@ I'm a self-taught programmer
 - [x] [6.S081 Operating System](https://github.com/hexinatgithub/6.S081)
 - [x] [6.824 Distributed Systems](https://github.com/hexinatgithub/6.824-2022)
 - [x] [6.031 Software Construction](https://github.com/hexinatgithub/6.005)
-- [x] [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers-coursework)
+- [x] [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers)
 
 🔥 current learning:
 
