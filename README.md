@@ -13,6 +13,7 @@ I'm a self-taught programmer
 - [x] [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers)
 
 🔥 current learning:
+- [6.033 Computer System Engineering](https://web.mit.edu/6.033/2021/wwwdocs/general.shtml)
 
 ⛳️ Plan to learn:
 - [6.858 Security System](https://css.csail.mit.edu/6.858/2022/)
