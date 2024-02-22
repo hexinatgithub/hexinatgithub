@@ -18,7 +18,7 @@ I'm a self-taught programmer
 ⛳️ Plan to learn:
 - [6.858 Security System](https://css.csail.mit.edu/6.858/2022/)
 
-🌱 I’m currently focus on software engineering, distributed systems, system design domain, system security.
+🌱 I currently focus on software engineering, distributed systems, system design domain, system security.
 
 <!--
 **hexinatgithub/hexinatgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
