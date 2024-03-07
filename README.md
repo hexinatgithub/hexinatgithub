@@ -11,7 +11,7 @@ I'm a self-taught programmer
 - [x] [6.824 Distributed Systems](https://github.com/hexinatgithub/6.824-2022)
 - [x] [6.031 Software Construction](https://github.com/hexinatgithub/6.005)
 - [x] [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers)
-- [x] [6.033 Computer System Engineering](https://holy-newsprint-1f5.notion.site/Computer-System-Engineering-88307ff867014e4989b25d1c5b5769bc?pvs=4)
+- [x] [6.033 Computer System Engineering](https://github.com/hexinatgithub/6.033-2018)
 
 🌱 I currently focus on software engineering, distributed systems, system design domain, system security.
 
