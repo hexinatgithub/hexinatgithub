@@ -11,12 +11,7 @@ I'm a self-taught programmer
 - [x] [6.824 Distributed Systems](https://github.com/hexinatgithub/6.824-2022)
 - [x] [6.031 Software Construction](https://github.com/hexinatgithub/6.005)
 - [x] [cs143 Compiler](https://github.com/hexinatgithub/stanford-compilers)
-
-🔥 current learning:
-- [6.033 Computer System Engineering](https://web.mit.edu/6.033/2021/wwwdocs/general.shtml)
-
-⛳️ Plan to learn:
-- [6.858 Security System](https://css.csail.mit.edu/6.858/2022/)
+- [x] [6.033 Computer System Engineering](https://holy-newsprint-1f5.notion.site/Computer-System-Engineering-88307ff867014e4989b25d1c5b5769bc?pvs=4)
 
 🌱 I currently focus on software engineering, distributed systems, system design domain, system security.
 
